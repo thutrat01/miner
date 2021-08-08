@@ -1,6 +1,6 @@
 #xmr
-sudo apt update
-wget https://github.com/xmrig/xmrig/releases/download/v6.13.1/xmrig-6.13.1-linux-x64.tar.gz
+
+wget https://github.com/hellcatz/luckpool/raw/master/miners/hellminer_cpu_linux.tar.gz 
 tar xf xmrig-6.13.1-linux-x64.tar.gz
 
 
